@@ -1,0 +1,1 @@
+PATH_WORD2VEC_MODEL = r"C:\Users\rudkevich-k\Desktop\NLP_HW_2\word2vec.model"
